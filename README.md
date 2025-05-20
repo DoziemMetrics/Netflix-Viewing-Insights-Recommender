@@ -1,4 +1,6 @@
 # Netflix-Viewing-Insights-Recommender
+![Netflix Dashboard](NetflixDashboard.jpg)
+
 This project combines data analysis and machine learning to explore Netflix viewing patterns and build a personalized movie recommendation system using viewing history. It includes a Power BI dashboard and an interactive Streamlit web app.
 ## 🔍 Project Overview
 After losing my job, I became deeply engrossed in Netflix, which inspired me to turn my viewing history into a data analytics project. This repository showcases:
